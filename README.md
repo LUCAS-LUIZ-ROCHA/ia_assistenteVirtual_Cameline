@@ -14,7 +14,7 @@ entre outros pacotes que ja vem instalados.
 Ao iniciar deve chamar a assitente virtual pelo nome "Cameline".
 Ela irá se apresentar - " Olá, eu sou a Cameline".
 e responder  - "Como posso te ajudar?"
-Algumas palavras chaves são para perguntar são:
+Algumas palavras chaves para perguntar são:
 " Que horas são?" (Responderá a hora)
 " Procure por ....." (Fará pesquisas na wikipédia)
 "Toque a música ...." (Ela irá abrir o youtube) 
